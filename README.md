@@ -1,2 +1,2 @@
-# bardiademon.github.com
+# bardiademon.github.io
 bardiademon
