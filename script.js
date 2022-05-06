@@ -1,1 +1,1 @@
-const redirect = () => setTimeout(() => document.location.href = "https://www.bardiademon.com" , 2000);
+const redirect = () => setTimeout(() => document.location.href = "https://www.bardiademon.com" , 3000);
